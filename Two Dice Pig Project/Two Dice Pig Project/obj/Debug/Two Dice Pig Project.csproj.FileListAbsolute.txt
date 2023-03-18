@@ -1,0 +1,10 @@
+D:\Grade 12 Computer Science\Two Dice Pig Project\Two Dice Pig Project\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Grade 12 Computer Science\Two Dice Pig Project\Two Dice Pig Project\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Grade 12 Computer Science\Two Dice Pig Project\Two Dice Pig Project\obj\Debug\Two Dice Pig Project.csproj.GenerateResource.cache
+D:\Grade 12 Computer Science\Two Dice Pig Project\Two Dice Pig Project\obj\Debug\Two Dice Pig Project.csproj.CoreCompileInputs.cache
+D:\Grade 12 Computer Science\Two Dice Pig Project\Two Dice Pig Project\bin\Debug\Two Dice Pig Project.exe.config
+D:\Grade 12 Computer Science\Two Dice Pig Project\Two Dice Pig Project\bin\Debug\Two Dice Pig Project.exe
+D:\Grade 12 Computer Science\Two Dice Pig Project\Two Dice Pig Project\bin\Debug\Two Dice Pig Project.pdb
+D:\Grade 12 Computer Science\Two Dice Pig Project\Two Dice Pig Project\obj\Debug\Two Dice Pig Project.exe
+D:\Grade 12 Computer Science\Two Dice Pig Project\Two Dice Pig Project\obj\Debug\Two Dice Pig Project.pdb
+D:\Grade 12 Computer Science\Two Dice Pig Project\Two Dice Pig Project\obj\Debug\Two Dice Pig Project.csprojAssemblyReference.cache
